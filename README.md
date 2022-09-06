@@ -6,7 +6,7 @@ solutions.
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* **[Onyemma Gregory S.](https://twitter.com/soonyemma)** <[Aysuarex](https://github.com/soonyemma)>
+* **[Onyemma Gregory S.](https://twitter.com/soonyemma)** <[soonyemma](https://github.com/soonyemma)>
 
 ## Acknowledgements :pray:
 
